@@ -21,8 +21,8 @@ A simple React shopping cart application that allows users to browse products, a
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/aneesh-acharyeah/react-shopping-cart.git
+   cd react-shopping-cart
    ```
 2. Install dependencies:
    ```bash
